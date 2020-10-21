@@ -5,4 +5,10 @@
     4a. Pay over the phone
     4b. Pay at door
 5. Wait for delivery
-6. Greet delivery driver
+6. Greet Delivery Person if covid isnt happening 
+7. Accept order
+9. Tip delivery Person
+10. Eat pizza
+11. Are we still hungry? See step 1
+12. blah
+13. Maybe I do something else
